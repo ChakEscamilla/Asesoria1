@@ -6,7 +6,4 @@ git pull --- para bajar los cambios del repositorio remoto
 git status --- ver el estado del repositorio remoto
 girt Branch ------------ ver las ramas que existen 
 girt Branch "rama" ------------ crear una nueva rama
-git checkout "rama" ------------ cambiar a la rama seleccionada 
-
-
-
+git checkout "rama" ------------ cambiar a la rama seleccionada   
